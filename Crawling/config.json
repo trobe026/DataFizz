@@ -1,0 +1,11 @@
+{
+  "category": "books",
+  "startUrl": "http://amazon.com",
+  "pageIds": [
+    "#twotabsearchtextbox",
+    ".nav-input",
+    ".acs_product-image",
+    "#a-autoid-2-announce",
+    "title"
+  ]
+}
